@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stribiod.github.io/sitemap.html.gz
+Sitemap: https://stribiod.github.io/app/sitemap.html.gz
+Sitemap: https://stribiod.github.io/assets/sitemap.html.gz
+Sitemap: https://stribiod.github.io/css/sitemap.html.gz
+Sitemap: https://stribiod.github.io/includes/sitemap.html.gz
+Sitemap: https://stribiod.github.io/item/sitemap.html.gz
+Sitemap: https://stribiod.github.io/src/sitemap.html.gz
